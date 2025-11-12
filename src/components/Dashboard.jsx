@@ -1,5 +1,5 @@
 import styled from "@emotion/styled";
-import PokemonCard from "./pokemonCard";
+import PokemonCard from "./PokemonCard";
 import pokeball from "../assets/pokeball.png";
 
 const Dashboard = ({ selectPokemon, setSelectPokemon }) => {
