@@ -1,5 +1,5 @@
 import MOCK_DATA from "../constant/mock";
-import PokemonCard from "./pokemonCard";
+import PokemonCard from "./PokemonCard";
 import styled from "@emotion/styled";
 
 const PokemonList = ({ selectPokemon, setSelectPokemon }) => {
